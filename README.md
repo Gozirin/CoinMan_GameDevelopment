@@ -1,0 +1,2 @@
+# CoinMan_GameDevelopment<img width="746" alt="Screenshot " src="https://user-images.githubusercontent.com/95639970/209452376-683ff1f5-89e7-42c8-9113-93d0cb4d81e9.png">
+CoinMan is a game based app built with Java language, the rule of the game played with device in landscape position, try as much as possible to gather much gold coin moving in upward and downward motion to get high points crowned with a reward
